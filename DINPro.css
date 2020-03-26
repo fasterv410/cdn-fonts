@@ -1,10 +1,17 @@
 @font-face {
   font-family: 'DIN Pro';
   font-style: normal;
+  font-weight: 300;
+  src: local('DIN Pro'), url('https://cdn.jsdelivr.net/gh/fasterv410/cdn-fonts/DINPro.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'DIN Pro';
+  font-style: normal;
   font-weight: normal;
   src: local('DIN Pro Medium'), url('https://cdn.jsdelivr.net/gh/fasterv410/cdn-fonts/DINPro-Medium.woff') format('woff');
 }
-    
+
 @font-face {
   font-family: 'DIN Pro';
   font-style: normal;
